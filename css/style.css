@@ -24,6 +24,11 @@ body {
     color: #ffffff;
 }
 
+@font-face {
+  font-family: CooperBlack;
+  src: url('../fonts/COOPBL.TTF')
+}
+
 .masthead-heading {
     margin-top: -0.2em;
     font-weight: bold;
@@ -31,6 +36,7 @@ body {
     letter-spacing: -0.02em;
     text-transform: uppercase;
     color: #ffffff;
+    font-family: CooperBlack;
 }
 
 .details {
