@@ -2,8 +2,9 @@ body {
     color: #222222;
     font-size: 1em;
     font-family: "Open Sans", "Helvetica Neue", sans-serif;
-    background-image: url('../img/paper.jpg');
+    background-image: url('../img/pinkgradient.jpg');
     background-size: cover;
+    background-repeat: repeat-y;
 }
 
 .content-footer,
