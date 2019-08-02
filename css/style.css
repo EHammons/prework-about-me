@@ -50,7 +50,8 @@ body {
     margin-left: auto;
     margin-right: auto;
     margin-top: 2em;
-    background-image: url('../img/redBackground.jpg')
+    background-image: url('../img/paper.jpg');
+    background-size: cover;
 }
 
 .details > p {
