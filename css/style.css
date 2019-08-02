@@ -22,11 +22,17 @@ body {
     margin-bottom: 0.1em;
     font-size: 2em;
     color: #ffffff;
+    font-family: LucidaHand;
 }
 
 @font-face {
   font-family: CooperBlack;
   src: url('../fonts/COOPBL.TTF')
+}
+
+@font-face {
+  font-family: LucidaHand;
+  src: url('../fonts/LHANDW.TTF')
 }
 
 .masthead-heading {
