@@ -15,6 +15,7 @@ body {
   background-image: url('../img/Pig.jpg');
   background-size: contain;
   background-repeat: no-repeat;
+  align-content: center;
 }
 
 .masthead-intro {
