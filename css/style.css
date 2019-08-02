@@ -14,7 +14,7 @@ body {
   padding: 6em 0;
   background-image: url('../img/Pig.jpg');
   background-size: contain;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-position: center;
 }
 
